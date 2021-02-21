@@ -1,0 +1,41 @@
+.btn{
+    border:none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: lightgray;
+}
+
+.btn-default{
+    background-color:#6c757d;
+    color: white;
+}
+
+
+.btn-primary{
+    background-color:#007bff ;
+    color: white
+}
+
+.btn-secondary{
+    background-color:purple ;
+    color: white;
+}
+
+.btn-danger{
+    background-color:#dc3545 ;
+    color: white;
+}
+
+.btn-light{
+    background-color:#f8f9fa;
+    color: black;
+}
+
+.btn-dark{
+    background-color:#343a40 ;
+    color: white;
+}
