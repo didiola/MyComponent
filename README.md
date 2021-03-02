@@ -21,5 +21,5 @@ button/
 - Create a button component with the following varriants (default, primary, secondary, danger, light, dark) [Score = 3.05]
 - Create a search bar with the search icon as the button. [to be submitted on or before 23:00:00 23/02/2021]
 
-## **Tasks**
+## **Task**
 - Create a card component, an input field with the following variants(default,active,disabled,error states) of the input.
